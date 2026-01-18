@@ -37,7 +37,7 @@ const Navbar = () => {
           duration: 0.5,
           ease: "power2.out",
         },
-        "<"
+        "<",
       )
       .to(
         contactRef.current,
@@ -47,7 +47,7 @@ const Navbar = () => {
           duration: 0.5,
           ease: "power2.out",
         },
-        "<+0.2"
+        "<+0.2",
       );
 
     iconTl.current = gsap
@@ -66,7 +66,7 @@ const Navbar = () => {
           duration: 0.3,
           ease: "power2.inOut",
         },
-        "<"
+        "<",
       );
   }, []);
 
@@ -115,7 +115,7 @@ const Navbar = () => {
                   {section}
                 </Link>
               </div>
-            )
+            ),
           )}
         </div>
         <div

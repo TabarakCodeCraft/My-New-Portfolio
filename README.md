@@ -6,6 +6,7 @@ This is a fully animated, interactive, 3D developer portfolio designed to **impr
 
 > ⚡ Inspired by Awwwards-level sites — built with React (Vite), TailwindCSS, GSAP, React Three Fiber, and Drei.
 
+🌟 **Check it live here:** [🚀 Live Demo 🌐](https://tabarak-dev.netlify.app/)
 
 ## 🚀 Tech Stack
 
@@ -38,19 +39,3 @@ git clone https://github.com/TabarakCodeCraft/My-New-Portfolio.git
 cd awwwards-portfolio
 npm install
 npm run dev
-```
-
-> Open http://localhost:5173 in your browser.
-
----
-
-## 🛠️ Customization Tips
-
-- Change text, images, and links in /constants/index.js
-
-- Update 3D models and scene in Hero.jsx
-
-- Add your own contact info in Contact.jsx
-
-- Adjust colors, fonts, and layout via tailwind.config.js
-

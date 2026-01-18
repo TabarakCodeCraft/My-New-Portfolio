@@ -7,7 +7,7 @@ import gsap from "gsap";
 const Services = () => {
   const text = ``;
   const serviceRefs = useRef([]);
-  const isDesktop = useMediaQuery({ minWidth: "48rem" }); //768px
+  const isDesktop = useMediaQuery({ minWidth: "48rem" });
   useGSAP(() => {
     serviceRefs.current.forEach((el) => {
       if (!el) return;
