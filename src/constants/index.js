@@ -63,7 +63,7 @@ export const servicesData = [
       "A clunky interface can sink even the best ideas. I craft responsive, pixel perfect web and mobile apps (React Native/Flutter) that users love—bridging design and functionality seamlessly.",
     items: [
       {
-        title: "Cross-Platform Apps",
+        title: "React Native",
         description: "(Single codebase for iOS/Android/Web)",
       },
       {
